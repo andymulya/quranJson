@@ -1211,7 +1211,7 @@
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/101.mp3",
   "type": "Makkiyah"
 }, {
-  "name": "Al-Takathur",
+  "name": "At-Takasur",
   "name_translations": {
     "ar": "التكاثر",
     "en": "Competition",
@@ -1219,11 +1219,11 @@
   },
   "number_of_ayah": 8,
   "number_of_surah": 102,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/102.mp3",
   "type": "Makkiyah"
 }, {
-  "name": "Al-Asr",
+  "name": "Al-'Asr",
   "name_translations": {
     "ar": "العصر",
     "en": "The Declining Day, Epoch",
@@ -1231,7 +1231,7 @@
   },
   "number_of_ayah": 3,
   "number_of_surah": 103,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/103.mp3",
   "type": "Makkiyah"
 }, {
@@ -1243,7 +1243,7 @@
   },
   "number_of_ayah": 9,
   "number_of_surah": 104,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/104.mp3",
   "type": "Makkiyah"
 }, {
@@ -1255,11 +1255,11 @@
   },
   "number_of_ayah": 5,
   "number_of_surah": 105,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/105.mp3",
   "type": "Makkiyah"
 }, {
-  "name": "Quraish",
+  "name": "Quraisy",
   "name_translations": {
     "ar": "قريش",
     "en": "Quraysh",
@@ -1267,7 +1267,7 @@
   },
   "number_of_ayah": 4,
   "number_of_surah": 106,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/106.mp3",
   "type": "Makkiyah"
 }, {
@@ -1279,11 +1279,11 @@
   },
   "number_of_ayah": 7,
   "number_of_surah": 107,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/107.mp3",
   "type": "Makkiyah"
 }, {
-  "name": "Al-Kauthar",
+  "name": "Al-Kausar",
   "name_translations": {
     "ar": "الكوثر",
     "en": "Abundance",
@@ -1291,7 +1291,7 @@
   },
   "number_of_ayah": 3,
   "number_of_surah": 108,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/108.mp3",
   "type": "Makkiyah"
 }, {
@@ -1303,7 +1303,7 @@
   },
   "number_of_ayah": 6,
   "number_of_surah": 109,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/109.mp3",
   "type": "Makkiyah"
 }, {
@@ -1315,11 +1315,11 @@
   },
   "number_of_ayah": 3,
   "number_of_surah": 110,
-  "place": "Medina",
+  "place": "Madinah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/110.mp3",
   "type": "Madaniyah"
 }, {
-  "name": "Al-Masad",
+  "name": "Al-Lahab",
   "name_translations": {
     "ar": "المسد",
     "en": "The Palm Fibre",
@@ -1327,7 +1327,7 @@
   },
   "number_of_ayah": 5,
   "number_of_surah": 111,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/111.mp3",
   "type": "Makkiyah"
 }, {
@@ -1339,7 +1339,7 @@
   },
   "number_of_ayah": 4,
   "number_of_surah": 112,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/112.mp3",
   "type": "Makkiyah"
 }, {
@@ -1351,7 +1351,7 @@
   },
   "number_of_ayah": 5,
   "number_of_surah": 113,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/113.mp3",
   "type": "Makkiyah"
 }, {
@@ -1363,7 +1363,7 @@
   },
   "number_of_ayah": 6,
   "number_of_surah": 114,
-  "place": "Mecca",
+  "place": "Mekah",
   "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/114.mp3",
   "type": "Makkiyah"
 }]
